@@ -1,4 +1,4 @@
-group 'wao.flutter.application.project.device_id'
+group 'flutter.application.project.device_id'
 version '1.0-SNAPSHOT'
 
 buildscript {
@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace 'wao.flutter.application.project.device_id'
+    namespace 'flutter.application.project.device_id'
     compileSdk 33
 
     compileOptions {
